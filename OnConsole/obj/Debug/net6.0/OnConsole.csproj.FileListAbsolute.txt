@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\bin\Debug\net6.0\OnConsole.exe
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\bin\Debug\net6.0\OnConsole.deps.json
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\bin\Debug\net6.0\OnConsole.runtimeconfig.json
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\bin\Debug\net6.0\OnConsole.dll
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\bin\Debug\net6.0\OnConsole.pdb
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.dll
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\refint\OnConsole.dll
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.pdb
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\OnConsole.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\OnConsole\OnConsole\obj\Debug\net6.0\ref\OnConsole.dll
